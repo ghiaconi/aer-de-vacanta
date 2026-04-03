@@ -1,0 +1,17 @@
+.env
+.env-example
+.env.example
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.bak
+*.tmp
+*.pid
+*.seed                  
